@@ -3,6 +3,7 @@
 - Recognize location of plate
 - Recognize characters in plate using [tesseract](https://github.com/tesseract-ocr/tesseract)
 
+
 **Click image to see [demo video](https://youtu.be/PpTl7xxGXh4)!**  
 [![result.png](https://github.com/kairess/license_plate_recognition/raw/master/19%EC%98%A47777.jpg)](https://youtu.be/PpTl7xxGXh4)
 
@@ -13,3 +14,4 @@
 - OpenCV
 - numpy
 - matplotlib
+
